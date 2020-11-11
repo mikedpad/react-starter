@@ -1,3 +1,3 @@
-# Quick Notes
+# Parcel Starter
 
-A simple example of virtual post-it notes using React and Material UI
+A starting point for React apps using Parcel Bundler.
