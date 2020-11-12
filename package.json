@@ -1,11 +1,11 @@
 {
-  "name": "parcel-starter",
-  "version": "0.1.0",
+  "name": "react-starter",
+  "version": "0.1.1",
   "author": "Michael Daniel Padilla <michaeldpadilla@gmail.com> (https://mikedpad.com)",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikedpad/parcel-starter.git"
+    "url": "https://github.com/mikedpad/react-starter.git"
   },
   "description": "A starting point for React apps.",
   "scripts": {

@@ -1,3 +1,10 @@
-# Parcel Starter
+# React Starter
 
-A starting point for React apps using Parcel Bundler.
+A starting point for React apps.
+
+## Features
+
+- Custom ESLint rules
+- Prettier
+- Styled Components
+- Polished
