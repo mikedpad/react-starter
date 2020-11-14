@@ -1,10 +1,8 @@
-# React Starter
+# Parcel Starter
 
-A starting point for React apps.
+A barebones starting point for Javascript development using Parcel Bundler.
 
 ## Features
 
-- Custom ESLint rules
-- Prettier
-- Styled Components
-- Polished
+- Custom ESLint and Prettier
+- Sass with Normalize.css
