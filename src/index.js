@@ -1,6 +1,5 @@
-const root = document.getElementById(`app`);
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './components/App';
 
-const paragraphEl = document.createElement(`p`);
-paragraphEl.innerHTML = `This is a barebones example of getting Parcel up and running.`;
-
-root.appendChild(paragraphEl);
+ReactDOM.render(<App />, document.getElementById(`app`));
